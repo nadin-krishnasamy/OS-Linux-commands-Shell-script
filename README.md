@@ -13,9 +13,6 @@ To practice Linux Commands and Shell Scripting
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
 ### Step 2:
-<img width="257" height="88" alt="Screenshot 2026-04-30 083837" src="https://github.com/user-attachments/assets/76ed7e7f-80bc-4c8f-9bd4-f424f0b25d53" />
-<img width="257" height="88" alt="Screenshot 2026-04-30 083837" src="https://github.com/user-attachments/assets/404c7792-e3f3-4ff0-bb63-eb2d8badfddb" />
-
 Execute the following commands
 
 ### Step 3:
@@ -139,7 +136,7 @@ grep -v hello newfile
 
 cat newfile | grep -i "hello"
 ## OUTPUT
- ![Uploading Screenshot 2026-04-30 091344.png…]()
+<img width="331" height="60" alt="Screenshot 2026-04-30 091344" src="https://github.com/user-attachments/assets/19a65e4b-e3a5-4914-8edd-4b0e938ef627" />
 
 
 
